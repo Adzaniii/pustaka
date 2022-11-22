@@ -11,4 +11,4 @@ Aplikasi pustaka booking adalah aplikasi untuk perpustakaan dalam mengelolah dat
 
 ### Screenshot Project
 
-![menu-user](/assets/img/screenshoot/menu-user.png)
+![menu-user](/assets/img/Screenshoot/menu-user.png)
